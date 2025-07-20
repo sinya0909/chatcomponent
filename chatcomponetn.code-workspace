@@ -1,0 +1,16 @@
+{
+	"folders":[
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"editor.insertSpaces": false,
+		"editor.detectIndentation": false
+	},
+	"launch": {
+		"configurations": [
+
+		]
+	}
+}
